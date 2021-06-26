@@ -1,7 +1,7 @@
 # EPGS-to-Discord
 
 [![](https://img.shields.io/badge/Origin-advancedbear-28a745?style=for-the-badge)](https://github.com/advancedbear/EPGS-to-Discord) 
-[![](https://img.shields.io/github/license/yuun-dev/EPGS-to-Discord?style=for-the-badge)](LICENSE) 
+[![](https://img.shields.io/github/license/nekonoyun/EPGS-to-Discord?style=for-the-badge)](LICENSE) 
 [![](https://img.shields.io/badge/Twitter-%40nekonoyun-00acee?style=for-the-badge)](https://twitter.com/nekonoyun) 
 [![](https://img.shields.io/badge/Discord-%E3%82%86%E3%82%93%20%238138-7289da?style=for-the-badge)](#)
 
